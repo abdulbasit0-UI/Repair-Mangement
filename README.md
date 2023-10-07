@@ -24,7 +24,19 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+A repair management built with nest js. Suitable for computer and repair shops
+
+## Features
+1. Customer management.
+2. Category management.
+3. Customer Jobs management
+4. Basic Reporting (coming soon!)
+
+## Tech Used
+1. Nest js
+2. Graphql
+3. Postgres
+   
 
 ## Installation
 
@@ -58,15 +70,6 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
 
 ## License
 
